@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hola Jaime, Ter y equipo, soy',
   name: 'Moni',
   subtitle: 'me hace mucha ilusión postularme al puesto administrativo',
-  cta: 'Te cuento más',
+  cta: 'Quien soy',
 };
 
 // ABOUT DATA
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://drive.google.com/file/d/1LCtFsiV-zXH5QhLGqnI27PgMM-9L1iJd/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1tQ33TzJ56PytgAMIv_pHxwcUtAFvgNSn/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

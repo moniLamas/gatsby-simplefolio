@@ -12,7 +12,7 @@ export const heroData = {
   title: 'Hola Jaime, Ter y equipo, soy',
   name: 'Moni',
   subtitle: 'me hace mucha ilusión postularme al puesto administrativo',
-  cta: 'Quien soy',
+  cta: 'Quién soy',
 };
 
 // ABOUT DATA

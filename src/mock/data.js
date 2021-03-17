@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'moniLamas2020_01.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne: 'Me llamo Mónica, por favor llamadme Moni, me parece más cercano el diminutivo. Vivo en Bertamiráns, un pueblo muy cerquita de Santiago de Compostela, desde hace 2 años y medio más o menos, antes vivia en Madrid. ',
+  paragraphTwo: 'Me pasó la oferta mi pareja que es del consejo de Sabios. Somos fans de vestro trabajo desde hace mucho mucho tiempo, por eso me hace tanta ilusión postularme. He trabajado muchos años como administrativo, por lo que puedo aportar experiencia. No ha sido en este sector, que es tan nuevo, todo cuenta, ¿verdad?. En los últimos tiempos me he estado autoformando en desarrollo web, mi vocación era maquetar libros, y ahora puedo maquetar webs, que mnola mucho. He estado trabajando 6 meses en una empresa de A Coruña, en remoto, maquetando en Wordpress. Mantenia la comunicación con el cliente durante la ejecución del proyecto. Y también gestionaba la cuenta de Instagram de uno de los productos de la empresa.  
+  paragraphThree: 'Os dejo el link para descargar mi cv.',
   resume: 'https://drive.google.com/file/d/1tQ33TzJ56PytgAMIv_pHxwcUtAFvgNSn/view?usp=sharing', // if no resume, the button will not show up
 };
 

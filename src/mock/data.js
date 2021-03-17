@@ -57,8 +57,8 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: 'Espero respuesta',
-  btn: 'en mi email',
+  cta: 'Si querés contar conmigo, adelante',
+  btn: 'escribeme',
   email: 'mlamasrial@gmail.com',
 };
 

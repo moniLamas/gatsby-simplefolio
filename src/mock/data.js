@@ -9,7 +9,7 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: 'Hola Jaime, Ter y equipo, mi nombre es',
+  title: 'Hola Jaime, Ter y equipo, soy',
   name: 'Moni',
   subtitle: 'me hace mucha ilusión postularme al puesto administrativo',
   cta: 'Te cuento más',
@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1LCtFsiV-zXH5QhLGqnI27PgMM-9L1iJd/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -33,7 +33,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://drive.google.com/file/d/1LCtFsiV-zXH5QhLGqnI27PgMM-9L1iJd/view?usp=sharing', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

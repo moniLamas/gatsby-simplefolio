@@ -68,22 +68,22 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'twitter',
-      url: '',
+      url: 'https://twitter.com/MoniMonipeny',
     },
     {
       id: nanoid(),
-      name: 'codepen',
-      url: '',
+      name: 'instagram',
+      url: 'https://www.instagram.com/moni.lamas/',
     },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/m%C3%B3nica-l-00b95763/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/moniLamas',
     },
   ],
 };

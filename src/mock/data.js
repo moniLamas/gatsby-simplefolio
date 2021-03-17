@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'YO_2020-03-08_02.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
@@ -33,7 +33,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://drive.google.com/file/d/1LCtFsiV-zXH5QhLGqnI27PgMM-9L1iJd/view?usp=sharing', // if no repo, the button will not show up
   },
   {
     id: nanoid(),

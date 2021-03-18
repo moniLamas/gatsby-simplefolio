@@ -37,21 +37,21 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'la_ruta_roja.jpg',
+    title: 'La ruta roja',
+    info: 'Maquetación en workpress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://www.larutaroja.com/',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'susana_urbano.jpg',
+    title: 'Susana Urbano Interiors',
+    info: 'Maquetación en workpress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes. Además se realizó la traducción al inglés y al alemán.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://www.susanaurbanointeriors.com/',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 

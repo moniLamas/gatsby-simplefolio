@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'pat.jpg',
     title: 'Pat educadora canina',
-    info: '',
+    info: 'Maquetación en workpress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
     info2: '',
     url: 'https://pateducadoracanina.com/',
     repo: '', // if no repo, the button will not show up

@@ -38,8 +38,7 @@ const Footer = () => {
         </div>
         <hr />
           <p className="footer__text">
-          © {new Date().getFullYear()} - Proyecto desarrollado por {' Moni Lamas '} para postular a la oferta
-          
+          © {new Date().getFullYear()} - Proyecto desarrollado por {' Moni Lamas '} para postular a la oferta 🤟
         </p>
       
 

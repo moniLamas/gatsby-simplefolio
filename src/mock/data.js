@@ -4,13 +4,13 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Moni Lamas', // e.g: 'Name | Developer'
   lang: 'es', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  description: 'Mi propuesta para la oferta de empleo, puesto administrativo.', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
   title: 'Hola Jaime, Ter y equipo, soy',
-  name: 'Moni',
+  name: 'Moni,',
   subtitle: 'me hace mucha ilusión postularme al puesto administrativo',
   cta: 'Quién soy',
 };

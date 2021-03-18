@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'moniLamas2020_01.jpg',
+  img: 'moniLamas_2020_02.jpg',
   paragraphOne: 'Me llamo Moni. Vivo en Bertamiráns, un pueblo muy cerquita de Santiago de Compostela, desde hace poco más de 2 años. Antes vivía en Madrid, ya no sé lo que son los atasco. Soy rockerilla, cultureta, techgirl, flexitariana y escéptica (pensamiento crítico). Fan del modernismo y el art noveau, caligrafía, nutrición, ciencia y humor. Soy animal de piscina, práctico natación desde cría, ahora mismo es lo que más echo en falta durante esta pandemia.',
   paragraphTwo: 'Me pasó la oferta mi pareja que es miembro del consejo de Sabios. Os seguimos desde hace mucho mucho tiempo, por eso me hace tanta ilusión postularme. He trabajado muchos años como administrativo, tengo experiencia en trato al cliente, gestión de documentación, realización de informes, ... En la actualidad estoy reciclándome en tecnologías de desarrollo web, mi vocación era maquetar libros, y ahora puedo maquetar webs, que es una pasada. He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en Wordpress y gestionando la cuenta de Instagram de la empresa. Tengo mucho interés en aprender a manejar plataformas que no conozco, como Kajabi, Osano, Quaderno, Shopify o Stripe.',
   paragraphThree: 'Os dejo el link para ver mi cv en PDF. Y en la siguiente sección muestro algunos de los proyectos en lo que he participado.',

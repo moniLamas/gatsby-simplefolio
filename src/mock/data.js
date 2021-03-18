@@ -28,11 +28,11 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'pat.jpg',
+    title: 'Pat educadora canina',
     info: '',
     info2: '',
-    url: '',
+    url: 'https://pateducadoracanina.com/',
     repo: '', // if no repo, the button will not show up
   },
   {

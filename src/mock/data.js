@@ -10,8 +10,8 @@ export const headData = {
 // HERO DATA
 export const heroData = {
   title: 'Hola Jaime, Ter y equipo, soy',
-  name: 'Moni,',
-  subtitle: 'me hace mucha ilusión postularme al puesto administrativo',
+  name: 'Moni',
+  subtitle: 'Me hace mucha ilusión postularme al puesto administrativo',
   cta: 'Quién soy',
 };
 

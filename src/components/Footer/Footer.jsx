@@ -39,6 +39,7 @@ const Footer = () => {
         <hr />
           <p className="footer__text">
           Sitio creado para postularme a la oferta 🤟
+          <hr />
           © {new Date().getFullYear()} - Template desarrollado por {' '}
           <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">
             Jacobo Martínez

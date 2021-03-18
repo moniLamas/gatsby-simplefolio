@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'pat.jpg',
     title: 'Pat educadora canina',
-    info: 'Maquetación en wordpress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
+    info: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
     info2: '',
     url: 'https://pateducadoracanina.com/',
     repo: '', // if no repo, the button will not show up
@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'la_ruta_roja.jpg',
     title: 'La ruta roja',
-    info: 'Maquetación en wordpress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
+    info: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
     info2: '',
     url: 'https://www.larutaroja.com/',
     repo: '', // if no repo, the button will not show up
@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'susana_urbano.jpg',
     title: 'Susana Urbano Interiors',
-    info: 'Maquetación en wordpress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes. Además se realizó la traducción al inglés y al alemán.',
+    info: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes. Además se realizó la traducción al inglés y al alemán.',
     info2: '',
     url: 'https://www.susanaurbanointeriors.com/',
     repo: '', // if no repo, the button will not show up

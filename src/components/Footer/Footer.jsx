@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
         <hr />
           <p className="footer__text">
-          Sitio creado para postularme a la oferta 🤟
+          Sitio creado con ritmo 🤟 por Moni Lamas.
           <br />
           © {new Date().getFullYear()} - Template desarrollado por {' '}
           <a href="https://github.com/cobidev" target="_blank" rel="noopener noreferrer">

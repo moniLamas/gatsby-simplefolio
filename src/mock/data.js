@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Me llamo Moni. Vivo en Bertamiráns, un pueblo muy cerquita de Santiago de Compostela, desde hace poco más de 2 años. Antes vivía en Madrid, ya no sé lo que son los atascos. Soy rockerilla, cultureta, techgirl, nadadora, flexitariana y escéptica (pensamiento crítico). Fan del modernismo y el art noveau, caligrafía, nutrición, ciencia y humor.',
   paragraphTwo: 'He trabajado muchos años como administrativo, tengo experiencia en trato al cliente, gestión de documentación, realización de informes, ... En la actualidad estoy reciclándome en tecnologías de desarrollo web, mi vocación era maquetar libros, y ahora puedo maquetar webs, que es una pasada. He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa. Tengo mucho interés en aprender a manejar plataformas que no conozco.',
   paragraphThree: 'Os dejo el link para ver mi cv en PDF. Y en la siguiente sección muestro algunos de los proyectos en los que he participado.',
-  resume: 'https://drive.google.com/file/d/12ODh9IC_jxjrUNY0DI-b21e-KOfQy9a4/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1jT5dwHb3oZa7nW11d79qwlOC67OyzahO/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA

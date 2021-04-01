@@ -4,22 +4,22 @@ import { nanoid } from 'nanoid';
 export const headData = {
   title: 'Moni Lamas', // e.g: 'Name | Developer'
   lang: 'es', // e.g: en, es, fr, jp
-  description: 'Mi propuesta para la oferta de empleo, puesto administrativo.', // e.g: Welcome to my website
+  description: 'Buscando empleo de forma activa', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: 'Hola Jaime, Ter y equipo, soy 👩🏼‍💻 ',
+  title: 'Hola, me llamo 👩🏼‍💻 ',
   name: 'Moni',
-  subtitle: 'y me hace mucha ilusión postularme al puesto administrativo',
+  subtitle: 'soy Junior Frontend developer',
   cta: 'Quién soy',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'moniLamas_2020_02.jpg',
-  paragraphOne: 'Me llamo Moni. Vivo en Bertamiráns, un pueblo muy cerquita de Santiago de Compostela, desde hace poco más de 2 años. Antes vivía en Madrid, ya no sé lo que son los atascos. Soy rockerilla, cultureta, techgirl, flexitariana y escéptica (pensamiento crítico). Fan del modernismo y el art noveau, caligrafía, nutrición, ciencia y humor. Soy animal de piscina, práctico natación desde cría, ahora mismo es lo que más echo en falta durante esta pandemia.',
-  paragraphTwo: 'Me pasó la oferta mi pareja que es miembro del consejo de Sabios. Os seguimos desde hace mucho mucho tiempo, por eso me hace tanta ilusión postularme. He trabajado muchos años como administrativo, tengo experiencia en trato al cliente, gestión de documentación, realización de informes, ... En la actualidad estoy reciclándome en tecnologías de desarrollo web, mi vocación era maquetar libros, y ahora puedo maquetar webs, que es una pasada. He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa. Tengo mucho interés en aprender a manejar plataformas que no conozco, como Kajabi, Osano, Quaderno, Shopify o Stripe.',
+  paragraphOne: 'Me llamo Moni. Vivo en Bertamiráns, un pueblo muy cerquita de Santiago de Compostela, desde hace poco más de 2 años. Antes vivía en Madrid, ya no sé lo que son los atascos. Soy rockerilla, cultureta, techgirl, nadadora, flexitariana y escéptica (pensamiento crítico). Fan del modernismo y el art noveau, caligrafía, nutrición, ciencia y humor.',
+  paragraphTwo: 'He trabajado muchos años como administrativo, tengo experiencia en trato al cliente, gestión de documentación, realización de informes, ... En la actualidad estoy reciclándome en tecnologías de desarrollo web, mi vocación era maquetar libros, y ahora puedo maquetar webs, que es una pasada. He trabajado 6 meses en una empresa de A Coruña, en remoto, maquetando en WordPress y gestionando una de las cuentas de Instagram de la empresa. Tengo mucho interés en aprender a manejar plataformas que no conozco.',
   paragraphThree: 'Os dejo el link para ver mi cv en PDF. Y en la siguiente sección muestro algunos de los proyectos en los que he participado.',
   resume: 'https://drive.google.com/file/d/19D8EflL6ipmJc037Fh-gWNaOcrHIRF7-/view?usp=sharing', // if no resume, the button will not show up
 };

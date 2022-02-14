@@ -32,7 +32,7 @@ export const projectsData = [
     title: 'Adalab',
     info: 'Portfolio de los trabajos realizado durante el bootcamp de Adalab',
     info2: '',
-    url: 'monilamas.github.io/adalab/',
+    url: 'https://github.com/moniLamas/adalab',
     repo: '', // if no repo, the button will not show up
   },
   {

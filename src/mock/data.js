@@ -39,18 +39,18 @@ export const projectsData = [
     id: nanoid(),
     img: 'la_ruta_roja.jpg',
     title: 'Ivory Soluciones',
-    info: 'Proyectos desarrollados durante los 6 meses de trabajo en Ivory Soluciones',
+    info: 'Portfolio con algunos de los proyectos desarrollados durante los 6 meses de trabajo en Ivory Soluciones',
     info2: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
     url: 'https://www.larutaroja.com/',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'susana_urbano.jpg',
-    title: 'Susana Urbano Interiors',
-    info: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes. Además se realizó la traducción al inglés y al alemán.',
+    img: '',
+    title: 'Diseño',
+    info: 'Portfolio Diseño Gráfico, UX/UI',
     info2: '',
-    url: 'https://www.susanaurbanointeriors.com/',
+    url: '',
     repo: '', // if no repo, the button will not show up
   },
 ];

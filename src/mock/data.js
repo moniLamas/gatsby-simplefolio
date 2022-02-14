@@ -30,17 +30,17 @@ export const projectsData = [
     id: nanoid(),
     img: 'theGirls.png',
     title: 'Adalab',
-    info: 'Portfolio de los trabajos realizado durante el bootcamp de Adalab',
+    info: 'Portfolio de los trabajos realizados durante el bootcamp de Adalab',
     info2: '',
-    url: 'https://github.com/moniLamas/adalab',
+    url: 'https://monilamas.github.io/adalab/',
     repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'la_ruta_roja.jpg',
-    title: 'La ruta roja',
-    info: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
-    info2: '',
+    title: 'Ivory Soluciones',
+    info: 'Proyectos desarrollados durante los 6 meses de trabajo en Ivory Soluciones',
+    info2: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
     url: 'https://www.larutaroja.com/',
     repo: '', // if no repo, the button will not show up
   },

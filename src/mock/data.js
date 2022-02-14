@@ -28,11 +28,11 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'pat.jpg',
-    title: 'Pat educadora canina',
-    info: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
+    img: 'theGirls.png',
+    title: 'Adalab',
+    info: 'Portfolio de los trabajos realizado durante el bootcamp de Adalab',
     info2: '',
-    url: 'https://pateducadoracanina.com/',
+    url: 'monilamas.github.io/adalab/',
     repo: '', // if no repo, the button will not show up
   },
   {

@@ -44,15 +44,15 @@ export const projectsData = [
     url: 'https://monilamas.github.io/ivory/',
     repo: '', // if no repo, the button will not show up
   },
-  // {
-  //   id: nanoid(),
-  //   img: 'project.jpg',
-  //   title: 'Diseño',
-  //   info: 'Portfolio Diseño Gráfico, UX/UI',
-  //   info2: '',
-  //   url: '',
-  //   repo: '', // if no repo, the button will not show up
-  // },
+  {
+    id: nanoid(),
+    img: 'project.jpg',
+    title: 'Diseño',
+    info: 'Portfolio Diseño Gráfico, UX/UI',
+    info2: '',
+    url: 'https://www.behance.net/mnicalamas',
+    repo: '', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA

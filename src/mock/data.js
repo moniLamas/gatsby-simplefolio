@@ -41,7 +41,7 @@ export const projectsData = [
     title: 'Ivory Soluciones',
     info: 'Portfolio con algunos de los proyectos desarrollados durante los 6 meses de trabajo en Ivory Soluciones',
     info2: 'Maquetación en WordPress con Divi, revisión y corrección de textos y tratamiento en Photoshop de todas las imágenes.',
-    url: 'https://www.larutaroja.com/',
+    url: 'https://monilamas.github.io/ivory/',
     repo: '', // if no repo, the button will not show up
   },
   {

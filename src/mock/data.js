@@ -46,7 +46,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: '',
+    img: 'project.jpg',
     title: 'Diseño',
     info: 'Portfolio Diseño Gráfico, UX/UI',
     info2: '',
